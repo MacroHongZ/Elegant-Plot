@@ -1,8 +1,19 @@
 # Elegant-Plot
 Plot toolbox based on Matplotlib, simple and elegant.
 
-## 绘制效果
-![](图片/demo.png)
+## 绘制展示
+
+![](./图片/bar.png) | ![](./图片/texture_bar.png) | ![](./图片/MS_bar.png)
+:---:|:---:|:---:
+[柱状图](./对比/柱状图/SS_Bar.py)| [纹理柱状图](./对比/柱状图/SS_Bar.py) | [多系列柱状图](./对比/多系列柱状图/MS_Bar.py)
+
+![](./图片/cicle_bar.png) | ![](./图片/Ms_circle_bar.png) | ![](./图片/stem.png)
+:---:|:---:|:---:
+[极坐标柱状图](./对比/极坐标柱状图/circle_Bar.py)| [多系列极坐标柱状图](./对比/多系列极坐标柱状图/MS_circle_Bar.py) | [棒棒糖图](./对比/棒棒糖图/Stem.py)
+
+![](./图片/spyder.png) | ![](./图片/spyder.png) | ![](./图片/spyder.png)
+:---:|:---:|:---:
+[雷达图](./对比/雷达图/spider.py)| [雷达图](./对比/雷达图/spider.py) | [雷达图](./对比/雷达图/spider.py)
 
 ## 绘制过程
 ### 数据准备
