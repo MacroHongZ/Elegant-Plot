@@ -2,7 +2,7 @@
 Plot toolbox based on Matplotlib, simple and elegant.
 
 ## 绘制展示
-
+### 对比
 ![](./图片/bar.png) | ![](./图片/texture_bar.png) | ![](./图片/MS_bar.png)
 :---:|:---:|:---:
 [柱状图](./对比/柱状图/SS_Bar.py)| [纹理柱状图](./对比/柱状图/SS_Bar.py) | [多系列柱状图](./对比/多系列柱状图/MS_Bar.py)
@@ -14,6 +14,11 @@ Plot toolbox based on Matplotlib, simple and elegant.
 ![](./图片/spyder.png) | ![](./图片/spyder.png) | ![](./图片/spyder.png)
 :---:|:---:|:---:
 [雷达图](./对比/雷达图/spider.py)| [雷达图](./对比/雷达图/spider.py) | [雷达图](./对比/雷达图/spider.py)
+
+### 相关性
+![](./图片/scatter_kde.png) | ![](./图片/scatter_kde.png) | ![](./图片/scatter_kde.png)
+:---:|:---:|:---:
+[散点图(带概率密度)](./相关性/散点图(带概率密度)/scatter.py)| [散点图(带概率密度)](./相关性/散点图(带概率密度)/scatter.py) | [散点图(带概率密度)](./相关性/散点图(带概率密度)/scatter.py)
 
 ## 绘制过程
 ### 数据准备
