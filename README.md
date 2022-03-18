@@ -11,9 +11,9 @@ Plot toolbox based on Matplotlib, simple and elegant.
 :---:|:---:|:---:
 [极坐标柱状图](./对比/极坐标柱状图/circle_Bar.py)| [多系列极坐标柱状图](./对比/多系列极坐标柱状图/MS_circle_Bar.py) | [棒棒糖图](./对比/棒棒糖图/Stem.py)
 
-![](./图片/spyder.png) | ![](./图片/spyder.png) | ![](./图片/spyder.png)
+![](./图片/line.png) | ![](./图片/spyder.png) | ![](./图片/spyder.png)
 :---:|:---:|:---:
-[雷达图](./对比/雷达图/spider.py)| [雷达图](./对比/雷达图/spider.py) | [雷达图](./对比/雷达图/spider.py)
+[折线图](./对比/雷达图/spider.py)| [雷达图](./对比/雷达图/spider.py) | [雷达图](./对比/雷达图/spider.py)
 
 ### 相关性
 ![](./图片/scatter_kde.png) | ![](./图片/scatter_kde.png) | ![](./图片/scatter_kde.png)
