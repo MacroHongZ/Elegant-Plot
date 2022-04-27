@@ -1,5 +1,7 @@
 # Elegant-Plot
 Plot toolbox based on Matplotlib, simple and elegant.
+<br>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMacroHongZ%2FElegant-Plot&count_bg=%23F9B548&title_bg=%23555555&icon=codecov.svg&icon_color=%23E7E7E7&title=CooL&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 绘制展示
 ### 对比
@@ -37,3 +39,4 @@ Plot toolbox based on Matplotlib, simple and elegant.
 - matplotlib = 3.5.0
 - pandas = 1.3.5
 - numpy = 1.20.3
+- seaborn = 0.11.2
