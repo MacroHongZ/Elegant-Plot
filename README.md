@@ -18,9 +18,9 @@ Plot toolbox based on Matplotlib, simple and elegant.
 [折线图](./对比/折线图/line.py)| [雷达图](./对比/雷达图/spider.py) | [雷达图](./对比/雷达图/spider.py)
 
 ### 相关性
-![](./图片/scatter_kde.png) | ![](./图片/scatter_kde.png) | ![](./图片/scatter_kde.png)
+![](./图片/scatter.png) | ![](./图片/scatter_kde.png) | ![](./图片/scatter_kde.png)
 :---:|:---:|:---:
-[散点图(带概率密度)](./相关性/散点图(带概率密度)/scatter.py)| [散点图(带概率密度)](./相关性/散点图(带概率密度)/scatter.py) | [散点图(带概率密度)](./相关性/散点图(带概率密度)/scatter.py)
+[散点图](./相关性/散点图/scatter.py)| [散点图(带概率密度)](./相关性/散点图(带概率密度)/scatter.py) | [散点图(带概率密度)](./相关性/散点图(带概率密度)/scatter.py)
 
 ## 绘制过程
 ### 数据准备
