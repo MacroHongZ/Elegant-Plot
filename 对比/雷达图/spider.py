@@ -29,7 +29,7 @@ def spider(style='ggplot', title='Title', color=['#d87c7c', '#919e8b', '#d7ab82'
     angles += angles[:1]
     color = color * 10
     for i in range(series_num):
-        ax.plot(angles, mul_series[i], color=color[i], linewidth=1, linestyle='solid', label="group A")
+        ax.plot(angles, mul_series[i], color=color[i], linewidth=1, linestyle='solid', label=labels[i])
         if fill:
             ax.fill(angles, mul_series[i], color=color[i], alpha=0.1)
 
@@ -40,6 +40,8 @@ def spider(style='ggplot', title='Title', color=['#d87c7c', '#919e8b', '#d7ab82'
     ax.set_rlabel_position(0)
     yticks = range(0, ylim_max, 5)
     ax.set_yticks(yticks, [str(i) for i in yticks])
+
+    ax.legend(loc='upper center', bbox_to_anchor=(0.5,-0.1), ncol=series_num)
 
     plt.tight_layout()
     plt.savefig('spyder.pdf')
