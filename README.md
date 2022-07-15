@@ -26,6 +26,17 @@ Plot toolbox based on Matplotlib, simple and elegant.
 :---:|:---:|:---:
 [热图](./相关性/热图/heatmap.py) | [热图](./相关性/热图/heatmap.py) | [热图](./相关性/热图/heatmap.py)
 
+### 分布
+![](./图片/boxplot.png) | ![](./图片/boxplot.png) | ![](./图片/boxplot.png)
+:---:|:---:|:---:
+[箱线图](./分布/箱线图/box_plot.py) | [箱线图](./分布/箱线图/box_plot.py) | [箱线图](./分布/箱线图/box_plot.py)
+
+### 函数绘制
+<div align=center>
+<img width="350" src="./图片/function.png"/>
+<a href=".函数绘制/plot_function.py">函数绘制</a>
+</div>
+
 ## 绘制过程
 ### 数据准备
 每种图表类型的目录下有`data.csv`文件，依据样例数据填入自己的数据。
