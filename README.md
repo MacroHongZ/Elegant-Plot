@@ -22,6 +22,10 @@ Plot toolbox based on Matplotlib, simple and elegant.
 :---:|:---:|:---:
 [散点图](./相关性/散点图/scatter.py)| [多系列散点图](./相关性/多系列散点图/Mul_scater.py) | [散点图(带概率密度)](./相关性/散点图(带概率密度)/scatter.py)
 
+![](./图片/heatmap.png) | ![](./图片/heatmap.png) | ![](./图片/heatmap.png)
+:---:|:---:|:---:
+[热图](./相关性/热图/heatmap.py) | [热图](./相关性/热图/heatmap.py) | [热图](./相关性/热图/heatmap.py)
+
 ## 绘制过程
 ### 数据准备
 每种图标类型的目录下有`data.csv`文件，依据样例数据填入自己的数据。
